@@ -10,9 +10,9 @@ class ract: public graphics{
 	public:void draw(){
 		cout<<"ract draw called "<<endl;
 	}
-	virtual void show(){
-		cout<<"ract show called";
-	}; 
+	 void show(){
+	 	cout<<"ract show called";
+	 };
 };
 class square:public graphics{
 	public:void show(){
