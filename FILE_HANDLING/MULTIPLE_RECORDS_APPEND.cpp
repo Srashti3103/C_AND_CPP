@@ -1,7 +1,6 @@
-//APPEND RECORD 
+//MULTIPLE RECORD APPEND 
+// ADD MORE RECORD 
 #include<iostream>
-#include<stdio.h>
-#include<string.h>
 using namespace std;
 #include<fstream>
 class student {
@@ -26,7 +25,7 @@ int main(){
 	char ch; 
 	student p;
 	fstream f;
-	f.open("srashti",ios::app|ios::binary);
+	f.open("srashti",ios::app);
 	do{
 		p.get();
 		f.write((char*)(&p),sizeof(p));
@@ -36,7 +35,7 @@ int main(){
 	}
 	while(ch == 'y');
 	f.close();
-	f.open("srashti",ios::app|ios::binary);
+	f.open("srashti",ios::in);
 	while(f.read((char*)(&p),sizeof(p))){
 		p.out();
 	}
