@@ -1,26 +1,4 @@
-//MULTIPLE RECORD 
-//INPUT AND PRINT N STUDENTS RECORDS
-#include<iostream>
-using namespace std;
-#include<fstream>
-class student {
-	private: char name[10];
-	int roll;
-	public: void get(){
-		cout<<"ENTER NAME AND ROLL "<<endl;
-		cin>>name>>roll;
-	}
-	void out(){
-		cout<<"name = "<<name<<endl;
-		cout<<"roll = "<<roll<<endl;
-	}
-	int getroll(){
-		return(roll);
-	}
-	char* getname(){
-		return(name);
-	}
-};
+#include"STUDENT.h"
 int main(){
 	char ch; 
 	student p;
