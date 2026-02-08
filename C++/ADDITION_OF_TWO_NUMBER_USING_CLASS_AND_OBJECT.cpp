@@ -8,6 +8,7 @@ class sum{
 		cin>>a>>b;
 	}
 	void cal(){
+		
 		c=a+b;
 	}
 	void out(){
