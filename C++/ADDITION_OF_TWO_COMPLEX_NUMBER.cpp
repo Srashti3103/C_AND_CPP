@@ -15,7 +15,9 @@ class complex{
 		b=x.b+y.b;//imaginary part
 	}	
 };
-int main(){
+int main()
+
+{
 	complex p,q,t;
 	p.get();
 	q.get();
