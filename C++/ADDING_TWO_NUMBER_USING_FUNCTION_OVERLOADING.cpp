@@ -16,4 +16,4 @@ void sum(float a,float b){
 int main(){
 	sum(2,5);//integer
 	sum(1.2f,2.3f);//float//without f take as double
-	}
+}
