@@ -5,8 +5,7 @@ struct student{
 	int roll_no;
 	int marks[3];
 	int sum;
-	float avg;
-};
+	float avg;};
 struct student a;
 int main(){
 	printf("ENTER THE NAME AND ROLL NO. OF STUDENT :\n");
