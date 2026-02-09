@@ -2,8 +2,7 @@
 #include<stdio.h>
 struct student{
 	char name[10];
-	int roll_no;
-};
+	int roll_no;};
 int main(){
 	struct student a;
 	printf("ENTER THE NAME AND ROLL NO. OF STUDENT :");
