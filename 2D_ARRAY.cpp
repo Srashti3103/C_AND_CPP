@@ -15,5 +15,4 @@ int main()
 	printf(" NAME = \n");
 	for(i=0;i<n;i++)
 	{
-		printf(" %s \n ", a[i]);
-	}}
+		printf(" %s \n ", a[i]);}}
