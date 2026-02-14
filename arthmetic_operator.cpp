@@ -12,6 +12,7 @@ int main ()
 	printf("b=%d",b);
 	int c;
 	c=a+b;
-	printf("sum of a and b = %d\n",c); 
+	printf("sum of a and b = %d\n",c);
+	 
 	}
 	
