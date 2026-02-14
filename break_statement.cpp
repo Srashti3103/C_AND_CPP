@@ -10,6 +10,8 @@ int main()
 	//looping statement
 	for(int i=2; i<=num-1;i++){
 		rem = num%i;
+
+
 		
 		if(rem==0)
 		{
