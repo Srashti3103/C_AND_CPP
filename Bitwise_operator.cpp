@@ -9,7 +9,7 @@ if(i++>j &&  j++>i)
  	j=20;
  	 printf("%d\n",i);
  	 printf("%d\n",j);
- } 
+	 } 
 if(i++>j &  j++>i)
  {
  	i=10 ;
