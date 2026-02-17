@@ -15,4 +15,5 @@ int fact(int p){
 		f=f*i;
 	}
 	return (f);
+	
 }
