@@ -3,7 +3,6 @@
 #include<string.h>
 int main()
 {
-	
 	char a[10][40];
 	int i, n;
 	printf("Enter size \n");
