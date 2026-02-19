@@ -1,6 +1,5 @@
 //INPUT N RECORD AND SORT N RECORD
 #include<stdio.h>
-
 struct student{
 	char name[10];
 	int roll;
