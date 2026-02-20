@@ -5,6 +5,8 @@ struct student{
 	int roll;
 }a[10],t;
 int main(){
+
+	
 	int n;
 	printf("ENTER NUMBER OF RECORDS:\n");
 	scanf("%d",&n);
