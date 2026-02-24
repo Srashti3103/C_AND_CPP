@@ -13,5 +13,6 @@ int fact(int p){
 	for(int i=1;i<=p;i++){
 		f=f*i;
 	}
+	
 	return (f);
 }
