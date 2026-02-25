@@ -8,6 +8,7 @@ int main(){
 	scanf("%d",&n);
 	printf("FACTORIAL OF A NUMBER :%d",fact(n));
 }
+
 int fact(int p){
 	int f=1;
 	for(int i=1;i<=p;i++){
