@@ -4,6 +4,7 @@ struct student{
 	char name[10];
 	int roll;
 }a[10],t;
+
 int main(){
 	int n;
 	printf("ENTER NUMBER OF RECORDS:\n");
