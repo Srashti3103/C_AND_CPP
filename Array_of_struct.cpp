@@ -18,4 +18,5 @@ int main(){
 		printf("NAme of student : %s\n",a[i].name);
 		printf("Roll number of student : %d\n",a[i].roll_no);
 	}
+	
 }
