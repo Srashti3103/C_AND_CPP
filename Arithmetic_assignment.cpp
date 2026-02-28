@@ -13,4 +13,5 @@ int main()
 	printf("%d\n",a);
 	a %= 5;
 	printf("%d\n",a);	
+	
 }
