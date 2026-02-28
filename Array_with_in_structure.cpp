@@ -9,6 +9,7 @@ struct student
 }a;
 int main()
 {
+	
 	int j;
 	printf("ENTER NAME AND ROLL \n");
 	scanf("%s%d",a.name,&a.roll);
