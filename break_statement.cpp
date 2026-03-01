@@ -14,6 +14,7 @@ int main()
 		{
 			break;//brak statement
 		}
+		
 	}
 		if(rem !=0)
 		{
