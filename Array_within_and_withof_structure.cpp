@@ -24,5 +24,4 @@ int main(){
 		for(int j=0;j<3;j++){
 		printf("MARKS OF STUDENT :%d\n",a[i].marks[j]);}
 	}
-	
 }
