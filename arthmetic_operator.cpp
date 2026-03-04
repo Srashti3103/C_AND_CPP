@@ -13,6 +13,5 @@ int main ()
 	int c;
 	c=a+b;
 	printf("sum of a and b = %d\n",c);
-	
 }
 	
