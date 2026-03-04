@@ -14,7 +14,6 @@ int main(){
     }
     printf("%d\n",a);
     printf("%d\n",b);//undefined b 
-	
 }
 //Register storage class
 //keyword--->>>register
