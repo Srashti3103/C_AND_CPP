@@ -15,8 +15,7 @@ if(i++>j &  j++>i)
  	i=10 ;
  	j=20;
  	 printf("%d\n",i);
- 	 printf("%d\n",j);
-	 
+ 	 printf("%d\n",j); 
  }
  if(i++>j || j++>i)
  {
