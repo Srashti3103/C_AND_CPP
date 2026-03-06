@@ -9,6 +9,7 @@ int main(){
 	while(1){
 	printf("Menu\n+ Add\n- Sub\n* Mul\n/ Div\nE Exit\nEnter choice:\n");
 	fflush(stdin);
+	
 	scanf("%c",&choice);
 		switch(choice){
 			case '+': c=a+b;
