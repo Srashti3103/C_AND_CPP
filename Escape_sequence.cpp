@@ -8,6 +8,7 @@ int main(){
 	printf("Welcome\b\b\ba");
 	//Denotes Comment
 	printf("\n");
+	
 	//To print component that is defined in compiler
 	printf("SAM\"s\n");
 	printf("\\n");
