@@ -9,8 +9,6 @@
 //void fun(){
 //	printf("%d\n",a);
 //}
-
-
 #include<stdio.h>
 void fun();
 int main(){
