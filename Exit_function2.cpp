@@ -17,7 +17,6 @@ int main()
 	    scanf("%d",&d);
 	switch(d)
 	{	
-		
 		case 1 : c = a + b;
 		printf(" ADD  = %d\n ", c);
 		break;
