@@ -14,4 +14,5 @@ int main()
 	printf("a= %f\n",a);
 	printf("b= %f\n",b);
 	printf("div= %f\n",c);
+	
 }
