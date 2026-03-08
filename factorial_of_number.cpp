@@ -12,4 +12,5 @@ int main()
 	   fac=fac*i;	
 	}
 	printf("fac = %d\n",fac);
+	
 }
