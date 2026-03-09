@@ -2,6 +2,7 @@
 #include<stdio.h>
 int main()
 {
+	
 	char a[40];
 	printf(" ENTER NAME \n");
 	gets( a );//input string (special character)
