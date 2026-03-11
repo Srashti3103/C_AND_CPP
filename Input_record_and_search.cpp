@@ -12,6 +12,7 @@ int main(){
 		printf("ENTER NAME AND ROLL NUMBER :\n");
 		scanf("%s%d",a[i].name,&a[i].roll);
 		}
+		
 		printf("ENTER THE ROLL TO SEARCHED:\n");
 		scanf("%d",&x);
 		for(int i=0;i<n;i++){
