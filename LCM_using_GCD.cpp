@@ -13,8 +13,7 @@ int main ()
     for(i=1;i<=min;i++){
         if(n1%i==0 && n2%i==0){
             gcd=i;
-        }
-        
+        }  
      }
      //formula for finding lcm using gcd 
      //n1*n2=lcm*gcd
