@@ -15,6 +15,7 @@ int main()
 	scanf("%s",x);
 	for(i=0 ; i<n ; i++)
 	{
+		
 		if(strcmp(a[i],x)== 0)
 		{
 			printf("FOUND AND POSITION = %d \n", i+1);
