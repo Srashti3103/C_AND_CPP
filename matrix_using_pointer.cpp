@@ -10,6 +10,7 @@ int main(){
 		for(int j=0;j<n;j++){
 			scanf("%d",(p+j));
 		}
+		
 	}
 	printf("MATRIX A \n");
 	for(int i=0;i<m;i++){
