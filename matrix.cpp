@@ -16,6 +16,7 @@ int main()
 		}
 	}
 	
+	
 //print array 
 printf("MATRIX \n");
 for (int i=0 ; i<m; i++)
