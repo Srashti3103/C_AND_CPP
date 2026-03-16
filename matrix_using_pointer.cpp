@@ -11,6 +11,7 @@ int main(){
 			scanf("%d",(p+j));
 		}
 	}
+	
 	printf("MATRIX A \n");
 	for(int i=0;i<m;i++){
 		p=a[i];
