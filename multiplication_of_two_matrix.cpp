@@ -16,6 +16,7 @@ int main(){
 				}
 			}
  		}
+		
  		printf("ENTER THE MATRIX b \n");
  		for( i=0;i<p;i++){
  			for( j=0;j<q;j++){
