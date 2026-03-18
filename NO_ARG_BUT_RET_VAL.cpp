@@ -8,6 +8,7 @@ int sum(){
 	c=a+b;//calculation
 	return c;
 }
+
 int main(){
 	int t;
 	t=sum();//function calling
