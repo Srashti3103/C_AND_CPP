@@ -9,4 +9,5 @@ void sum(){
 }
 int main(){
 	sum();//function calling 
+	
 }
