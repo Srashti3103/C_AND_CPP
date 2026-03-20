@@ -15,4 +15,5 @@ int main(){
 	printf("%d\n",p);
 	p+=4;
 	printf("%d\n",p);
+	
 }
