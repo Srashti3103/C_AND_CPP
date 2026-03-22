@@ -17,5 +17,4 @@ struct student{
      printf(" NAME = %s \n " , p->name) ;  
       printf(" ROLL   = %d \n " , p->roll) ; 
 }
-
 }
