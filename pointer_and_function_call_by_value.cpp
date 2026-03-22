@@ -16,6 +16,7 @@ int main(){
 	printf("a=%d\n",a);
 	printf("b=%d\n",b);
 }
+
 void swap(int p,int q){
 	int c;
 	c=p;
