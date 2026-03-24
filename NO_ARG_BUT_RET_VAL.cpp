@@ -13,5 +13,4 @@ int main(){
 	int t;
 	t=sum();//function calling
 	printf("SUM =%d",t);//print
-	
 }
