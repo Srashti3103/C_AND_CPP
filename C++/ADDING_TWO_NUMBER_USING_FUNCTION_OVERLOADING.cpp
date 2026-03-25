@@ -13,6 +13,7 @@ void sum(float a,float b){
 	c=a+b;
 	cout<<"SUM ="<<c<<endl;
 }
+
 int main(){
 	sum(2,5);//integer
 	sum(1.2f,2.3f);//float//without f take as double
