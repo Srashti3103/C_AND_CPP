@@ -16,7 +16,6 @@ class complex{
 	}	
 };
 int main()
-
 {
 	complex p,q,t;
 	p.get();
