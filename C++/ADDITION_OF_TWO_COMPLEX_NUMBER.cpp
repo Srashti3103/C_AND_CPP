@@ -15,6 +15,7 @@ class complex{
 		b=x.b+y.b;//imaginary part
 	}	
 };
+
 int main()
 {
 	complex p,q,t;
