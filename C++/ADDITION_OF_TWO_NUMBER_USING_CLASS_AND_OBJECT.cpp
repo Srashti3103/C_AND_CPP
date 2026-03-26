@@ -14,7 +14,6 @@ class sum{
 	void out(){
 		cout<<"SUM="<<c<<endl;
 	}
-	
 };
 int main(){
 	sum p;
