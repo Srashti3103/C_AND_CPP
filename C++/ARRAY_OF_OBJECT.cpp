@@ -9,6 +9,7 @@ class student{
 		cout<<"ENTER NAME AND ROLL NUMBER"<<endl;
 		cin>>name>>rollno;
 	}
+	
 	void out(){
 		cout<<"NAME ="<<name<<endl;
 		cout<<"ROLL NUMBER ="<<rollno<<endl;
