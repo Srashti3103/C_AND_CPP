@@ -9,6 +9,7 @@ class complex{
 		b=y;
 	}
 	void out(){
+		
 		cout<<a<<"+i"<<b<<endl;
 	}
 	complex operator+ (complex x){
