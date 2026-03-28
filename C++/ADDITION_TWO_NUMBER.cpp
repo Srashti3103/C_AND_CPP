@@ -7,5 +7,4 @@ int main(){
 	cin>>a>>b;
 	c=a+b;
 	cout<<"SUM="<<c<<endl;
-	
 }
