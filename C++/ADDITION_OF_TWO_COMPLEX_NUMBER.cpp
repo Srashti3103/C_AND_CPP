@@ -10,6 +10,7 @@ class complex{
 	void out(){
 		cout<<a<<"+i"<<b<<endl;
 	}
+	
 	void sum(complex x,complex y){
 		a=x.a+y.a;//real part
 		b=x.b+y.b;//imaginary part
