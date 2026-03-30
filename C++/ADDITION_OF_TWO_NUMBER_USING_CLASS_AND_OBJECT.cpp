@@ -16,7 +16,6 @@ class sum{
  	}
 };
 
-
 int main(){
 	sum p;
 	p.get();
