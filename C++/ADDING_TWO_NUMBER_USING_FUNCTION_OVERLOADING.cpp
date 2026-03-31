@@ -8,7 +8,6 @@ void sum(int a,int b){
 	c=a+b;
 	cout<<"SUM ="<<c<<endl;
 }
-
 void sum(float a,float b){
 	float c;
 	c=a+b;
