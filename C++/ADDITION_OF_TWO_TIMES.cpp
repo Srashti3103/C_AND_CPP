@@ -17,7 +17,6 @@ class time
 		hr=x.hr+y.hr+(x.min+y.min)/60;
 	}
 };
-
 int main(){
 	time p,q,t;
 	p.get();
