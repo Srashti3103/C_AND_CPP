@@ -15,6 +15,7 @@ class sum{
 		cout<<"SUM="<<c<<endl;
  	}
 };
+
 int main(){
 	sum p;
 	p.get();
