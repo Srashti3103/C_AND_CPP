@@ -14,6 +14,7 @@ class student{
 		cout<<"NAME ="<<name<<endl;
 		cout<<"ROLL NUMBER ="<<rollno<<endl;
 	}
+	
 };
 int main(){
 	student p[10];
