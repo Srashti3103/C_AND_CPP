@@ -12,6 +12,7 @@ class complex{
 		
 		cout<<a<<"+i"<<b<<endl;
 	}
+	
 	complex operator+ (complex x){
 		complex w;
 		w.a=a+x.a;
