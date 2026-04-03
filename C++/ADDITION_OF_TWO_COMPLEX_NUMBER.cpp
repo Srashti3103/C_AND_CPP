@@ -7,6 +7,7 @@ class complex{
 		cout<<"Enter real and imaginary value"<<endl;
 		cin>>a>>b;
 	}
+	
 	void out(){
 		cout<<a<<"+i"<<b<<endl;
 	}
