@@ -4,7 +4,6 @@
 #include<iostream>
 using namespace std;
 void sum(int a,int b){
-	
 	int c;
 	c=a+b;
 	cout<<"SUM ="<<c<<endl;
