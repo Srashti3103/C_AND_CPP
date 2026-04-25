@@ -9,7 +9,6 @@ class sum{
 	}
 	void cal(){
 		
-		
 		c=a+b;
 	}
 	void out(){
