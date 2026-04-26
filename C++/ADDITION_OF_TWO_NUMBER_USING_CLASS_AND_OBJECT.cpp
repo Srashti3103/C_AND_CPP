@@ -7,6 +7,7 @@ class sum{
 		cout<<"ENTER TWO NUMBER"<<endl;
 		cin>>a>>b;
 	}
+	
 	void cal(){
 		
 		c=a+b;
