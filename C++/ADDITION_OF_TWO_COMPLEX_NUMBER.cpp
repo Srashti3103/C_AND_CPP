@@ -15,6 +15,7 @@ class complex{
 		a=x.a+y.a;//real part
 		b=x.b+y.b;//imaginary part
 	}	
+	
 };
 
 
