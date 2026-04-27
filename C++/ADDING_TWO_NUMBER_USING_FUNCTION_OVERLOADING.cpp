@@ -10,6 +10,7 @@ void sum(int a,int b){
 	cout<<"SUM ="<<c<<endl;
 }
 void sum(float a,float b){
+	
 	float c;
 	c=a+b;
 	cout<<"SUM ="<<c<<endl;
