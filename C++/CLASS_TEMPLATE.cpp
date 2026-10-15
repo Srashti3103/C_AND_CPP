@@ -13,6 +13,7 @@ class test{
 		cout<<a<<endl<<b<<endl;
 	}
 };
+
 int main(){
 	test<int>p;
 	p.get();

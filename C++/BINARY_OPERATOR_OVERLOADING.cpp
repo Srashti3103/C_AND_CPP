@@ -8,6 +8,7 @@ class complex{
 		a=x;
 		b=y;
 	}
+	
 	void out(){
 		
 		cout<<a<<"+i"<<b<<endl;

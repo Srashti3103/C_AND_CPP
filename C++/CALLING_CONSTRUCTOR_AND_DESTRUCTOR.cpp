@@ -9,6 +9,7 @@ class test{
 		cout<<"DESTRUCTOR CALLED ="<<this<<endl;
 	}
 };
+
 int main(){
 	{
 		test p;
