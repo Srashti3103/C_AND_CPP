@@ -8,5 +8,6 @@ int main(){
 	cout.precision(2);
 	cout<<12.16412<<endl;
 	cout.precision(3);
+	
 	cout<<12.16412<<endl;
 }
