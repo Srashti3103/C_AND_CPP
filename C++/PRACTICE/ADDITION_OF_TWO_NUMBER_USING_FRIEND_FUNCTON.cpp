@@ -10,6 +10,7 @@ class complex{
 	void out(){
 		cout<<a<<"+i"<<b<<endl;
 	}
+	
 	friend complex sum(complex x,complex y);
 };
 complex sum(complex x,complex y){
