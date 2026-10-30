@@ -9,6 +9,7 @@ int main(){
 	cout<<12.16412<<endl;//printf("%*8.2f",12.16412);
 	cout<<15.1356<<endl;
 	cout<<12.20004;
+	
 
 	
 }
