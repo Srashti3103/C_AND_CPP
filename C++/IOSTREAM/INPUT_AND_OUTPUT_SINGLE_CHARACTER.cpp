@@ -6,4 +6,6 @@ int main(){
 	cout<<"ENTER CHARACTER ="<<endl;
 	ch=cin.get();
 	cout.put(ch);
+	
+	
 }
